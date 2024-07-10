@@ -1,4 +1,4 @@
-# User-agent-rotate
+# Burp Extension: User-agent-rotate
 
 Burp extension that takes a file of User-agents and modifies each request with a random user-agent from the list. 
 
